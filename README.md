@@ -1,3 +1,5 @@
+Aluno : José Alexandre B. de Oliveira
+
 Esse projeto tem como propósito responder as seguintes questões :
 
 1-Os paises que tem o maior PIB são os mesmo que possuem os maiores indicadores de qualidade de vida ?
