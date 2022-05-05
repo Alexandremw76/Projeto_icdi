@@ -10,7 +10,7 @@ Esse projeto tem como propósito responder as seguintes questões :
 
 link de acesso para datasets :
 
-https://www.kaggle.com/datasets/cityapiio/countries-quality-of-life-index-2020-year
+https://www.kaggle.com/datasets/gustavofc/human-development-index-hdi
 
 https://www.kaggle.com/datasets/nicklitwinow/population-by-country
 
